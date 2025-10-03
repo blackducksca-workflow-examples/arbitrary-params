@@ -7,7 +7,7 @@ on:
     branches: [ main ]
                                                                                                                                                                                                                                          
 jobs:
-  blackduck-scan:
+  blackduck-sca-scan:
     runs-on: [mac-arm-sh]
                                                                                                                                                                                                                                          
     steps:
